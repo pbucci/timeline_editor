@@ -1,0 +1,23 @@
+{
+  "name": "timeline_editor",
+  "version": "1.0.0",
+  "description": "An abstract timeline editor.",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbucci/timeline_editor.git"
+  },
+  "keywords": [
+    "timeline",
+    "editor"
+  ],
+  "author": "Paul Bucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbucci/timeline_editor/issues"
+  },
+  "homepage": "https://github.com/pbucci/timeline_editor#readme"
+}
